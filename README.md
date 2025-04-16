@@ -13,7 +13,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 ```bash
-pip install web3
+pip install -r requirements.txt
 ```
 ```bash
 nano .env
